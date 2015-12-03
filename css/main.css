@@ -1,0 +1,32 @@
+*
+{
+	outline: 1px solid green;
+}
+.navbar-header li{
+	list-style: none;
+}
+.menu{
+	background:#000;
+}
+.menu a{
+	color:gray;
+}
+.menu1
+{
+	margin-left: 50px;
+}
+ul.nav.navbar-nav{
+	margin-left: 525px;
+}
+.contenido{
+	margin:30px 0;
+}
+.contenido img{
+ width:650px;
+}
+.contenido input{
+	border-radius:20px;
+	background: gray;
+	width:130px;
+}
+
